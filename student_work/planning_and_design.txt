@@ -4,32 +4,32 @@ APP PLANNING & DESIGN
 
 1. PROJECT NAME & THEME
 -------------------------
-- What is your app called, and what type of app is it?  
-- What style or vibe do you want users to experience?
-- What about your app will require a log-in structure?
+- What is your app called, and what type of app is it? Social media
+- What style or vibe do you want users to experience? A place to interact so safe
+- What about your app will require a log-in structure? Entering
 
 2. CORE FUNCTIONALITY
 -------------------------
-- What are the essential features your app must have?  
-- What optional features could make your app more interactive or personalized?
+- What are the essential features your app must have?  Log in, unique spaces
+- What optional features could make your app more interactive or personalized? A place that you can post your own thoughts or messages
 
 3. SECRET OR PERSONALIZED CONTENT
 
 -------------------------
-- What content will users see after logging in?  
-- Will this content change depending on who is using the app (admin, user, special user?)
+- What content will users see after logging in?  A random social media page (fake)
+- Will this content change depending on who is using the app (admin, user, special user?) Probably not
 
 4. USER EXPERIENCE (UX) DESIGN
 -------------------------
-- How should your app look and feel?
-- How will users navigate between pages?
+- How should your app look and feel? Comfortable, inviting
+- How will users navigate between pages? A page selector at the bottom
 
 5. SECURITY FEATURES
 -------------------------
-- What password and authentication rules will you enforce?  
-- How will you protect secret pages from unauthorized access?
+- What password and authentication rules will you enforce? must be a certain number of characters long, have at least one number and one special character
+- How will you protect secret pages from unauthorized access? Secret password
 
 6. OPTIONAL CREATIVE ENHANCEMENTS
 -------------------------
-- What customization or fun features could users enjoy?
-- Are there interactive elements, like games, quizzes, or badges, you could include?
+- What customization or fun features could users enjoy? Interaction
+- Are there interactive elements, like games, quizzes, or badges, you could include? Yes, a board you can post thoughts or questions on and people can answer
