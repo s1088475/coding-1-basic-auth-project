@@ -6,6 +6,7 @@ app.secret_key = "supersecretkey"  # needed for sessions
 users = {
     "alice": "password123"
     "kencarti": "yvlopium123"
+    "ace": "dahomies4eva"
 }
 
 base_style = """
